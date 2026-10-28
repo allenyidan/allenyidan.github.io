@@ -3,10 +3,8 @@ cv:
   label: Ph.D. Student
   email: yidanzhang@link.cuhk.edu.cn
   website: https://allenyidan.github.io
-  location: Shenzhen, China
   summary: >
-    Ph.D. student at The Chinese University of Hong Kong, Shenzhen, advised by Prof. Xiaoguang Han.
-    I work on spatial intelligence for multimodal large language models, and I am looking for a research internship in multimodal LLMs.
+    Ph.D. student in Computer and Information Engineering at The Chinese University of Hong Kong, Shenzhen, advised by Prof. Xiaoguang Han. I work on 4D spatial reasoning, long-video memory, and interactive multimodal agents.
 
   social_networks:
     - network: GitHub
@@ -22,7 +20,7 @@ cv:
         start_date: 2024-09
         end_date: present
         highlights:
-          - School of Science and Engineering. Sep. 2024 – Present.
+          - Sep. 2024 – Present.
           - Advisor: Prof. Xiaoguang Han.
 
       - institution: The Chinese University of Hong Kong, Shenzhen
@@ -31,7 +29,7 @@ cv:
         start_date: 2020-09
         end_date: 2023-07
         highlights:
-          - Sep. 2020 – Jul. 2023. GPA 3.7/4.0.
+          - Sep. 2020 – Jul. 2023. GPA: 3.7/4.0.
           - Advisor: Prof. Xiaoguang Han.
 
       - institution: Central China Normal University
@@ -40,7 +38,7 @@ cv:
         start_date: 2015-09
         end_date: 2019-06
         highlights:
-          - Sep. 2015 – Jun. 2019. Rank 4/196.
+          - Sep. 2015 – Jun. 2019. Rank: 4/196.
 
       - institution: University of California, Berkeley
         area: Computer Science
@@ -48,16 +46,16 @@ cv:
         start_date: 2017-08
         end_date: 2018-01
         highlights:
-          - Aug. 2017 – Jan. 2018. GPA 3.7/4.0.
+          - Aug. 2017 – Jan. 2018.
 
     Experience:
       - company: Huawei Noah's Ark Lab
-        position: Research Collaboration
+        position: Research Collaborator
         start_date: 2025-09
         end_date: 2026-09
-        summary: With Dave Zhenyu Chen.
         highlights:
-          - "Spatial understanding and reasoning with spatiotemporal memory: large models fused with search, static memory via VLM-3R and CUT3R, and dynamic memory via LLaVA and VGGT."
+          - Collaborated with Dave Zhenyu Chen on MLLMs for 4D dynamic spatial reasoning and memory.
+          - Designed data/evaluation pipelines and static/dynamic spatial-memory modules for 4D scenes.
 
     Honors and Awards:
       - title: WAIC Youth Outstanding Paper Nomination Award
@@ -69,14 +67,7 @@ cv:
       - title: Excellent Graduate
         awarder: Central China Normal University
 
-    Skills:
-      - name: Programming
-        keywords:
-          - Python
-          - PyTorch
-
-    Languages:
-      - name: Chinese
-        summary: Native
-      - name: English
-        summary: TOEFL 102
+    Research and Technical Background:
+      - bullet: "Spatial intelligence, 3D/4D vision, long-video understanding, multimodal LLMs"
+      - bullet: "Python, PyTorch, COLMAP"
+      - bullet: "Chinese (native), English (TOEFL 102)"
