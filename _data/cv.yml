@@ -67,6 +67,11 @@ cv:
       - title: Excellent Graduate
         awarder: Central China Normal University
 
+    Academic Service:
+      - bullet: "Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+      - bullet: "Reviewer, International Conference on Computer Vision (ICCV)"
+      - bullet: "Reviewer, International Conference on Learning Representations (ICLR)"
+
     Research and Technical Background:
       - bullet: "Spatial intelligence, 3D/4D vision, long-video understanding, multimodal LLMs"
       - bullet: "Python, PyTorch, COLMAP"

@@ -86,6 +86,24 @@
       "awarder": "Central China Normal University"
     }
   ],
+  "awards": [
+    {
+      "title": "WAIC Youth Outstanding Paper Nomination Award",
+      "date": "2024"
+    },
+    {
+      "title": "CCF CAD&CG Open-source Dataset of the Year",
+      "date": "2023"
+    },
+    {
+      "title": "National Scholarship",
+      "date": "2018"
+    },
+    {
+      "title": "Excellent Graduate",
+      "awarder": "Central China Normal University"
+    }
+  ],
   "skills": [
     {
       "name": "Research",
