@@ -4,37 +4,37 @@
 @inproceedings{zhang2026vcagent,
   title     = {VC-Agent: An Interactive Agent for Customized Video Dataset Collection},
   author    = {Zhang, Yidan and Xu, Mutian and Hao, Yiming and Zhou, Kun and Chang, Jiahao and Liu, Xiaoqiang and Wan, Pengfei and Fu, Hongbo and Han, Xiaoguang},
-  booktitle = {ACM International Conference on Multimedia (ACM MM)},
+  booktitle = {ACM International Conference on Multimedia},
   year      = {2026},
   abbr      = {ACM MM},
   selected  = {true},
   arxiv     = {2509.21291},
   doi       = {10.1145/3767308.3835241},
   website   = {https://allenyidan.github.io/vcagent_page/},
-  abstract  = {A customized video dataset is hard to scale, because the requirements rarely fit in a single query. VC-Agent turns a rough request and a few rounds of feedback into an updatable filtering policy, using template-based acceptance and attribute-aware rejection. With five stacked requirements, average IoU is 49.2, against 31.1 for LLaVA-OneVision-7B. In a user study the agent collected 335K videos at 84--92\% judged quality.}
+  abstract  = {Customized video datasets are difficult to scale because users rarely know how to state every requirement in a single query. VC-Agent is the first interactive MLLM agent that turns lightweight feedback into an evolving collection policy, using template-based acceptance and attribute-aware rejection. Its end-to-end system combines a Web UI, video proposal, iterative criteria refinement, filtering, and automatic scale-up. In user studies, participants collected 335K videos across eight datasets with only minutes of interaction per dataset and 84--92\% judged quality.}
 }
 
 @inproceedings{yu2023mvimgnet,
   title      = {MVImgNet: A Large-scale Dataset of Multi-view Images},
   author     = {Yu, Xianggang and Xu, Mutian and Zhang, Yidan and Liu, Haolin and Ye, Chongjie and Wu, Yushuang and Yan, Zizheng and Zhu, Chenming and Xiong, Zhangyang and Liang, Tianyou and Chen, Guanying and Cui, Shuguang and Han, Xiaoguang},
-  booktitle  = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  booktitle  = {IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year       = {2023},
   abbr       = {CVPR},
   selected   = {true},
   website    = {https://gaplab.cuhk.edu.cn/projects/MVImgNet/},
   annotation = {* equal technical contribution},
-  abstract   = {3D learning has no ImageNet-scale source of real multi-view images, because scanned geometry is costly to collect. MVImgNet provides 6.5M frames from 219,188 videos across 238 classes, with masks, cameras, and point clouds. The data supports view-consistent recognition and real-world 3D object classification, and received the CCF CAD\&CG 2023 Open-source Dataset of the Year.}
+  abstract   = {Large-scale real-world 3D data is expensive to collect, leaving 3D learning without an ImageNet-scale source of multi-view observations. MVImgNet contains 6.5M frames from 219,188 videos across 238 classes, with object masks, camera parameters, and point clouds. It supports radiance-field reconstruction, multi-view stereo, and view-consistent understanding, and further yields MVPNet, a real-world point-cloud dataset with 87,200 objects.}
 }
 
 @inproceedings{chang2026reconviagen,
   title      = {ReconViaGen: Towards Accurate Multi-view 3D Object Reconstruction via Generation},
   author     = {Chang, Jiahao and Ye, Chongjie and Wu, Yushuang and Chen, Yuantao and Zhang, Yidan and Luo, Zhongjin and Li, Chenghong and Zhi, Yihao and Han, Xiaoguang},
-  booktitle  = {International Conference on Learning Representations (ICLR)},
+  booktitle  = {International Conference on Learning Representations},
   year       = {2026},
   abbr       = {ICLR},
   selected   = {false},
   arxiv      = {2510.23306},
   website    = {https://jiahao620.github.io/reconviagen/},
   annotation = {* equal contribution: Jiahao Chang and Chongjie Ye},
-  abstract   = {When input views barely overlap, reconstruction leaves holes, and a generator fills them with geometry that does not match the images. ReconViaGen places reconstruction priors inside a diffusion generator, so the completed shape and texture stay consistent with the observed views.}
+  abstract   = {Pure reconstruction is accurate where views overlap but incomplete elsewhere, while diffusion models can complete unseen regions yet drift away from the input images. ReconViaGen conditions a 3D diffusion generator on global and per-view reconstruction priors, then uses rendering-aware velocity compensation to preserve geometric and textural alignment. It achieves state-of-the-art results on Dora-Bench and OmniObject3D.}
 }

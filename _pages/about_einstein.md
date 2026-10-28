@@ -1,3 +1,5 @@
-I am a Ph.D. student at The Chinese University of Hong Kong, Shenzhen, advised by Prof. Xiaoguang Han. I work on spatial intelligence for multimodal large language models: measuring how a scene changes over time, and building agents that turn a rough request into a video dataset. Before the Ph.D., I built large-scale multi-view images so that 3D learning would not depend only on scanned geometry.
+I am a Ph.D. student in Computer and Information Engineering at The Chinese University of Hong Kong, Shenzhen, advised by Prof. Xiaoguang Han. My research explores how multimodal models can understand and remember a physical world that changes over time. I focus on 4D spatial reasoning, long-video memory, and interactive multimodal agents.
 
-I am looking for a research internship in multimodal LLMs.
+Before starting my Ph.D., I completed my M.Phil. at CUHK-Shenzhen and my B.Eng. in Computer Science at Central China Normal University. I was also an exchange student at the University of California, Berkeley.
+
+I am currently looking for a research internship in multimodal learning.

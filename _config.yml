@@ -9,12 +9,12 @@ last_name: Zhang
 contact_note: >
   Email is the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Ph.D. student at The Chinese University of Hong Kong, Shenzhen, advised by Prof. Xiaoguang Han. I work on spatial intelligence for multimodal large language models.
+  Ph.D. student in Computer and Information Engineering at The Chinese University of Hong Kong, Shenzhen, advised by Prof. Xiaoguang Han. I work on 4D spatial reasoning, long-video memory, and interactive multimodal agents.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: spatial intelligence, multimodal learning, computer vision, academic website # add your own keywords or leave empty
+keywords: 4D spatial reasoning, long-video memory, multimodal LLMs, academic website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
