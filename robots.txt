@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://allenyidan.github.io/sitemap.xml
