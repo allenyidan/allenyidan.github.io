@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Yidan Zhang",
-    "label": "PhD Student",
-    "image": "",
+    "label": "Ph.D. Student",
     "email": "yidanzhang@link.cuhk.edu.cn",
-    "summary": "PhD student at The Chinese University of Hong Kong, Shenzhen, working on spatial intelligence and multimodal learning.",
+    "url": "https://allenyidan.github.io",
+    "summary": "Ph.D. student at The Chinese University of Hong Kong, Shenzhen, advised by Prof. Xiaoguang Han. I work on spatial intelligence for multimodal large language models, and I am looking for a research internship in multimodal LLMs.",
     "location": {
       "city": "Shenzhen",
       "countryCode": "CN"
@@ -14,29 +14,98 @@
         "network": "GitHub",
         "username": "allenyidan",
         "url": "https://github.com/allenyidan"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "ygkBzwYAAAAJ",
+        "url": "https://scholar.google.com/citations?user=ygkBzwYAAAAJ"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "name": "Huawei Noah's Ark Lab",
+      "position": "Research Collaboration",
+      "startDate": "2025-09",
+      "endDate": "2026-09",
+      "summary": "With Dave Zhenyu Chen.",
+      "highlights": [
+        "Spatial understanding and reasoning with spatiotemporal memory: large models fused with search, static memory via VLM-3R and CUT3R, and dynamic memory via LLaVA and VGGT."
+      ]
+    }
+  ],
   "education": [
     {
       "institution": "The Chinese University of Hong Kong, Shenzhen",
-      "area": "Spatial Intelligence and Multimodal Learning",
-      "studyType": "PhD",
-      "location": "Shenzhen, China"
+      "area": "Computer and Information Engineering",
+      "studyType": "Ph.D.",
+      "startDate": "2024-09",
+      "endDate": "present",
+      "highlights": ["School of Science and Engineering. Sep. 2024 – Present.", "Advisor: Prof. Xiaoguang Han."]
+    },
+    {
+      "institution": "The Chinese University of Hong Kong, Shenzhen",
+      "area": "Computer and Information Engineering",
+      "studyType": "M.Phil.",
+      "startDate": "2020-09",
+      "endDate": "2023-07",
+      "highlights": ["Sep. 2020 – Jul. 2023. GPA 3.7/4.0.", "Advisor: Prof. Xiaoguang Han."]
+    },
+    {
+      "institution": "Central China Normal University",
+      "area": "Computer Science",
+      "studyType": "B.Eng.",
+      "startDate": "2015-09",
+      "endDate": "2019-06",
+      "highlights": ["Sep. 2015 – Jun. 2019. Rank 4/196."]
+    },
+    {
+      "institution": "University of California, Berkeley",
+      "area": "Computer Science",
+      "studyType": "Exchange",
+      "startDate": "2017-08",
+      "endDate": "2018-01",
+      "highlights": ["Aug. 2017 – Jan. 2018. GPA 3.7/4.0."]
+    }
+  ],
+  "awards": [
+    {
+      "title": "WAIC Youth Outstanding Paper Nomination Award",
+      "date": "2024"
+    },
+    {
+      "title": "CCF CAD&CG Open-source Dataset of the Year",
+      "date": "2023"
+    },
+    {
+      "title": "National Scholarship",
+      "date": "2018"
+    },
+    {
+      "title": "Excellent Graduate",
+      "awarder": "Central China Normal University"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["Python", "PyTorch"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "TOEFL 102"
     }
   ],
   "publications": [],
   "projects": [],
   "volunteer": [],
-  "awards": [],
   "certificates": [],
-  "skills": [],
-  "languages": [],
-  "interests": [
-    {
-      "name": "Spatial intelligence and multimodal learning"
-    }
-  ],
+  "interests": [],
   "references": []
 }

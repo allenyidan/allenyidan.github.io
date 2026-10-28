@@ -12,7 +12,6 @@ profiles:
     content: about_einstein.md
     image_circular: false
     more_info: >
-      <p>School of Science and Engineering</p>
-      <p>The Chinese University of Hong Kong, Shenzhen</p>
-      <p>Shenzhen, China</p>
+      School of Science and Engineering<br>
+      Advised by Prof. Xiaoguang Han
 ---
