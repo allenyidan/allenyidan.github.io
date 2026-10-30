@@ -55,7 +55,7 @@ cv:
         end_date: 2026-09
         highlights:
           - Collaborated with Dave Zhenyu Chen on MLLMs for 4D dynamic spatial reasoning and memory.
-          - Trained and evaluated Qwen3-VL with DeepSpeed on multi-node multi-GPU clusters.
+          - Trained and evaluated a Qwen3-VL-based model with DeepSpeed on multi-node multi-GPU clusters.
           - Designed data/evaluation pipelines and static/dynamic spatial-memory modules for 4D scenes.
 
     Honors and Awards:
